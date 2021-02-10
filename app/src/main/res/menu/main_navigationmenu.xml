@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+<!--        <item-->
+<!--            android:id="@+id/Home"-->
+<!--            android:title="홈"-->
+<!--            />-->
+
+        <item
+            android:id="@+id/stats"
+            android:icon="@drawable/stats"
+            android:title="메인"
+            />
+        <item
+            android:id="@+id/Timer"
+            android:icon="@drawable/timer"
+            android:title="타이머"
+            />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/text_instruction"
+            android:icon="@drawable/tip"
+            android:title="사용 TIP"
+            />
+
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="로그아웃"
+            />
+        <item
+            android:icon="@drawable/exit"
+            android:id="@+id/setting"
+            android:title="회원탈퇴"
+            />
+    </group>
+</menu>

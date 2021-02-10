@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<!--    <item-->
+<!--        android:id="@+id/menu_search"-->
+<!--        android:title="search"-->
+<!--        android:icon="@drawable/ic_launcher_background"-->
+<!--        app:showAsAction="always"-->
+<!--        />-->
+<!--    <group>-->
+<!--        <item-->
+<!--            android:id="@+id/menu_account"-->
+<!--            android:title="account"-->
+<!--            android:icon="@drawable/ic_launcher_foreground"-->
+<!--            />-->
+<!--        <item-->
+<!--            android:id="@+id/menu_logout"-->
+<!--            android:title="logout"-->
+<!--            android:icon="@drawable/ic_launcher_foreground"-->
+<!--            />-->
+<!--    </group>-->
+</menu>
